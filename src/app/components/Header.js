@@ -12,7 +12,7 @@ const Header = () => {
       <div>
         <Image src={profilea} alt='Profile' className='rounded-full w-32' />
       </div>
-      <h3> Hi! I'm Arun Das </h3>
+      <h3>{`Hi! I'm Arun Das`}</h3>
 
       <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-serif'>
         Chief Sales Officer based in Bangalore
